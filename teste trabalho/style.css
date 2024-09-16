@@ -1,0 +1,213 @@
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+
+
+
+.grande{
+    border: solid black;
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    position: relative;
+    left: 200px;
+
+}
+ 
+.texto1{
+   position: relative;
+   top: 200px;
+   right:380px;
+   
+   
+   
+   
+}
+
+.médio{
+
+
+    border: solid black;
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    position: relative;
+    left: 253px;
+
+
+}
+.texto2{
+    position: relative;
+    top: 150px;
+    right:380px;
+} 
+
+.pequeno{
+    border: solid black;
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 306px;
+
+     
+}
+
+.texto3{
+    position: relative;
+    top: 90px;
+    right:380px;
+} 
+
+.vermelha{
+    background-color: brown;
+    width: 90px;
+    height: 90px;
+    border: 2px solid black;
+    margin: 50px;
+}
+
+.blocos{
+     position: relative ;
+    left: 1400px;
+    bottom: 750px;
+     
+
+
+}
+
+
+.azul{
+    background-color: rgb(27, 30, 231);
+    width: 90px;
+    height: 90px;
+    border: 2px solid black;
+    margin: 50px;
+}
+
+
+
+
+
+.laranja{
+    background-color: rgb(248, 178, 49);
+    width: 90px;
+    height: 90px;
+    border: 2px solid black;
+    margin: 50px;
+}
+.verde{
+    background-color: rgb(12, 233, 85);
+    width: 90px;
+    height: 90px;
+    border: 2px solid black;
+    margin: 50px;
+}
+.preto{
+    background-color: rgb(3, 3, 3);
+    width: 90px;
+    height: 90px;
+    border: 2px solid rgb(248, 246, 246);
+    margin: 50px;
+}
+
+.textos{
+    position: relative ;
+     left: 100px;
+     bottom: 562px;
+
+
+}
+
+.texto5{
+    margin: 100px 0px 0px 0px;
+}
+
+.texto6{
+    margin: 100px 0px 0px 0px;
+
+}
+
+.texto7{
+    margin: 110px 0px 0px 0px;
+
+}
+
+.texto8{
+
+    margin: 115px 0px 0px 0px;
+
+}
+
+.imagens{
+     display: flex;
+     
+     
+}
+
+.imagens{
+ 
+    position: relative;
+
+    top: 200px;
+    right:1300px;
+    
+}
+
+.img1{
+
+    margin: 50px;
+
+}
+
+.img2 {
+    margin: 50px;
+}
+
+.img3{
+    margin: 50px;
+}
+
+.img4{
+    margin: 50px;
+}
+
+.redes{
+    display: flex;
+}
+
+.redes{
+    position: relative;
+    top: 300px;
+    right:1300px;
+}
+.redes{
+    background-color: rgb(48, 224, 48);
+
+    width: 1000px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
